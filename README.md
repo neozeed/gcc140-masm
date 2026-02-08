@@ -1,6 +1,6 @@
 ---
 
-# 📦 gcc140-masm
+## 📦 gcc140-masm
 
 **GCC 1.40 adapted for MASM-friendly assembly**
 
